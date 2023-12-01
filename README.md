@@ -1,5 +1,5 @@
 # VideoChat-Project-Python
-This project automates/scripts using python the compilation and organization of game source code files written in Go. It searches for directories containing the keyword "game," compiles the Go code within, and organizes the compiled games into a target directory.
+This Video Chat Project uses Python to provide a video chat experience by utilizing the vidstream library and integrating threading to streamline the connection process and facilitate real-time video communication between devices. It is designed for both local and internet-based connections, offering flexibility in usage.
 
 ## Installation
 

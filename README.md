@@ -30,7 +30,6 @@ Steps:
 3: Interact and take advantage of turning on camera, screen sharing, and talking
 
 
-## Demo
 ![ezgif com-video-to-gif (1)](https://github.com/ahmadbasyouni10/VideoChat-Project-Python/assets/120362910/5b304036-07b9-42d7-9a00-c14fb677a283)
 
 

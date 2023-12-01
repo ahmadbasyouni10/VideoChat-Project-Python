@@ -15,8 +15,11 @@ pip install threading
 
 ## Usage
 Clone the repository to your local machine or download zip folder
+
 Run main.py as the first device
+
 Run main2.py from terminal by running this in terminal, which will be treated as your second device
+
 Note this is a way to run both clients from the same device, but works when using 2 different computers
 
 ```

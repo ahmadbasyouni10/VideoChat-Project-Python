@@ -21,16 +21,14 @@ Note this is a way to run both clients from the same device, but works when usin
 
 ```
 python main2.py
-
 ```
 
 Steps: 
 1: Use the same IP address of whoever is hosting, either first or second user's ip address
+
 2: Ensure both clients are listening
+
 3: Interact and take advantage of turning on camera, screen sharing, and talking
-
-
-
 
 
 

@@ -24,6 +24,7 @@ python main2.py
 ```
 
 Steps: 
+
 1: Use the same IP address of whoever is hosting, either first or second user's ip address
 
 2: Ensure both clients are listening
